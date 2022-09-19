@@ -1,0 +1,190 @@
+img{
+    width: 570px;
+    height: 180px;
+    outline-style: solid;
+    outline-color: red;
+    margin: 5px;
+}
+
+body{
+    margin: 0;
+    height: 100vh;
+    background-image: url("bgimgaaa.jpg");
+}
+
+ol{
+    list-style: none;
+}
+
+.nav-bar{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    outline-style: solid;
+    outline-color: red;
+}
+
+
+
+
+
+
+.nav-home-button{
+    width: 120px;
+    height: 60px;
+    display: block;
+    border-radius: 10%;
+    border-color: red;
+    border-style: solid;
+    background-color: purple;
+    text-align: center;
+    line-height: 55px;
+    text-decoration: none;
+}
+.nav-home-button:link{
+    color: red;
+}
+.nav-home-button:visited{
+    color: white;
+}
+.nav-home-button:hover{
+    background-color: blue;
+    color:yellow;
+    width: 125px;
+    height: 65;
+}
+.nav-home-button:active{
+    color: greenyellow;
+    width: 130px;
+    height: 70px;
+}
+
+
+
+
+
+
+.nav-about-button{
+    width: 120px;
+    height: 60px;
+    display: block;
+    border-radius: 10%;
+    border-color: red;
+    border-style: solid;
+    background-color: purple;
+    text-align: center;
+    line-height: 55px;
+    text-decoration: none;
+}
+.nav-about-button:link{
+    color: red;
+}
+.nav-about-button:visited{
+    color: white;
+}
+.nav-about-button:hover{
+    background-color: blue;
+    color:yellow;
+    width: 125px;
+    height: 65;
+}
+.nav-about-button:active{
+    color: greenyellow;
+    width: 130px;
+    height: 70px;
+}
+
+
+
+
+.nav-contacts-button{
+    width: 120px;
+    height: 60px;
+    display: block;
+    border-radius: 10%;
+    border-color: red;
+    border-style: solid;
+    background-color: purple;
+    text-align: center;
+    line-height: 55px;
+    text-decoration: none;
+}
+.nav-contacts-button:link{
+    color: red;
+}
+.nav-contacts-button:visited{
+    color: white;
+}
+.nav-contacts-button:hover{
+    background-color: blue;
+    color:yellow;
+    width: 125px;
+    height: 65;
+}
+.nav-contacts-button:active{
+    color: greenyellow;
+    width: 130px;
+    height: 70px;
+}
+
+
+
+
+
+
+.nav-extern-button{
+    width: 120px;
+    height: 60px;
+    display: block;
+    border-radius: 10%;
+    border-color: red;
+    border-style: solid;
+    background-color: purple;
+    text-align: center;
+    line-height: 55px;
+    text-decoration: none;
+}
+.nav-extern-button:link{
+    color: red;
+}
+.nav-extern-button:visited{
+    color: white;
+}
+.nav-extern-button:hover{
+    background-color: blue;
+    color:yellow;
+    width: 125px;
+    height: 65;
+}
+.nav-extern-button:active{
+    color: greenyellow;
+    width: 130px;
+    height: 70px;
+}
+
+
+
+
+
+/* IMAGES */
+.pirmasimg{
+    object-fit: cover;
+}
+
+.antrasimg{
+    object-fit: scale-down;
+}
+
+.treciasimg{
+    object-fit: fill;
+}
+
+.ketvirtasimg{
+    object-fit: none;
+}
+
+.penktasimg{
+    object-fit: contain;
+}
+/* IMAGES END */
