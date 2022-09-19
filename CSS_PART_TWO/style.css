@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    border: solid 1px white;
+}
+
+body{
+    height: 100vh;
+}
+
+header{
+    height: 20%;
+    background-color: bisque;
+}
+
+nav{
+    height: 10%;
+    background-color: bisque;
+}
+
+.left{
+    height: 60%;
+    width: 20%;
+    float: left;
+    background-color: bisque;
+}
+
+main{
+    float: left;
+    height: 60%;
+    width: 60%;
+    background-color: bisque;
+}
+
+.right{
+    height: 60%;
+    width: 20%;
+    float: right;
+    background-color: bisque;
+}
+
+footer{
+    height: 10%;
+    background-color: bisque;
+    clear: both;
+}
